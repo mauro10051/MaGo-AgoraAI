@@ -81,4 +81,15 @@ MIT License – see [LICENSE](LICENSE) for details.
 
 ---
 
+## 🎮 Demo Interattive
+Esplora le lezioni bilingue e mappe concettuali sul tempo:
+
+[![Demo Banner](https://via.placeholder.com/600x200?text=Time+Debate+Demos)](demo/)  
+*(Clicca per accedere alla demo completa)*
+
+📂 **Contenuti disponibili**:
+- Lezioni di Max (Fisica) 🇬🇧/🇮🇹
+- Lezioni di Samanta (Filosofia) 🇬🇧/🇮🇹
+- Mappe concettuali dedicate--
+
  
