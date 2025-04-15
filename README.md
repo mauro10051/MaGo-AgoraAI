@@ -150,4 +150,4 @@ MIT License – see [LICENSE](LICENSE) for details.
     - **Psicologia:** Studio della cognizione temporale e della memoria.
     - **Scienza cognitiva:** Studio della rappresentazione del tempo nella mente.
     - **Teologia:** Riflessioni sulla natura del tempo e la sua relazione con la 
-creazione e la divinità.
+creazione e la divinità." " 
