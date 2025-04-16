@@ -38,12 +38,16 @@ Notebooks and demo outputs will be added shortly.
 - Interface mockups for interactive control
 
 ---
+## 📄 Licenza
 
-## 📄 License
+Questo progetto è distribuito con licenza [**Creative Commons BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/).  
+🔒 **È consentito l'uso, la modifica e la condivisione solo per scopi non commerciali**, con obbligo di attribuzione.  
+📬 Per utilizzi commerciali, contatta gli autori.
 
-MIT License – see [LICENSE](LICENSE) for details.
+This project is licensed under [**Creative Commons BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/).  
+🔒 **You are free to use, modify, and share it for non-commercial purposes only**, with proper attribution.  
+📬 For commercial use, please contact the authors.
 
----
 
 ## 🤝 Contributors
 
