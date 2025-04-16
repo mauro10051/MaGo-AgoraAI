@@ -58,6 +58,7 @@ This project is licensed under [**Creative Commons BY-NC 4.0**](https://creative
 🔒 **You are free to use, modify, and share it for non-commercial purposes only**, with proper attribution.  
 📬 For commercial use, please contact the authors.
 
+---
 
 ## 🤝 Contributors
 
