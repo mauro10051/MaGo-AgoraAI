@@ -38,7 +38,17 @@ Notebooks and demo outputs will be added shortly.
 - Interface mockups for interactive control
 
 ---
-## 📄 Licenza
+## 👥Who is it for
+
+This project is designed for:
+
+- 🎓 Teachers, trainers and researchers in the field of education, philosophy and science
+- 🧠 Experimenters and enthusiasts of argumentative artificial intelligence
+- 🛠️ Developers interested in building dialogic simulation environments between intelligent agents A chi è rivolto
+
+---
+
+## 📄 Licenza/License
 
 Questo progetto è distribuito con licenza [**Creative Commons BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/).  
 🔒 **È consentito l'uso, la modifica e la condivisione solo per scopi non commerciali**, con obbligo di attribuzione.  
