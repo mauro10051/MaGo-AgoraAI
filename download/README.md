@@ -1,5 +1,26 @@
-# Gestione dei Download
+# Gestione dei Download del Progetto
 
-Qui vengono descritti i vari file da scaricare per il progetto.
-- **File 1**: Descrizione del file 1
-- **File 2**: Descrizione del file 2
+Questo repository contiene i file necessari per eseguire il progetto sia in locale che su Colab. I file sono organizzati nelle seguenti cartelle:
+
+## gestione_locale/
+
+La cartella `gestione_locale` contiene i notebook da eseguire in ambiente locale: I notebook dovranno essere lanciati secondo un preciso ordine 
+
+- **1_install.ipynb**: Questo notebook crea e registra il path di lavoro dove posizioni i tuoi notebook e la cartella con tutti i progetti che andrai a costruire.
+- **2_generate poject.ipynb**: Qui devi dare un nome a un nuovo progetto, indicare il tema di studio che avrò la struttura di una domanda e la disciplina di base degli Agenti. Esempio Max è un Fisico teorico. Samanta è un filosofo e la domanda è: il tempo è reale o una costruzione della mente ?
+- **3_textual_map.ipynb: Dopo avere registrato il progetto Con questo notebook devi generare la mappa concettuale testuale di Max e di Samanta, in relazione al tema della domanda 
+- **4_profile.ipynb: Questo notebook predispone due strumenti fondamentali: I nuovi profili di Max e di Samanta e le tracce che utilizzerai successivamente per la gestione delle lezioni e del dibattito 
+- **5_lesson.ipynb: L'output di questo notebook è una lezione strutturata come intervista tra un Agente che impersona il ruolo di moderatore e Max e o Samanta. Un esempio di testo scientifico con finalità divulgative
+- **5_debate.ipynb: Il risultato finale di questa Pipline è un dibattito tra Max e Samanta moderato da Pol
+
+ 
+## gestione_colab/
+
+La cartella `gestione_colab` contiene i notebook da eseguire su Google Colab:
+
+- **01_presentazione_colab.ipynb**: Introduzione al progetto e configurazione per l'esecuzione su Google Colab.
+
+## Come usare
+
+- **Per ambiente locale**: Segui le istruzioni nel file `01_presentazione_locale.ipynb` e poi esegui il file `02_avvio_pipeline_locale.ipynb`.
+- **Per ambiente Colab**: Apri il file `01_presentazione_colab.ipynb` direttamente su Google Colab e segui le istruzioni per avviare il progetto.
