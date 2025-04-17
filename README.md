@@ -21,10 +21,10 @@ Starting from a single question, AgoraAI generates concept maps, simulates inter
 👉 **[🎮 DEMO – Sample Simulation](demo/README.md)**  
 _A debate between a physicist and a philosopher about the nature of time._
 
-👉 **[📖 Project Philosophy](#)**  
+👉 **[📖 Project Philosophy](docs/philosophy.md)**  
 _Why MaGo AgoraAI? Vision and epistemological background._
 
-👉 **[📚 Technical Documentation](#)**  
+👉 **[📚 Technical Documentation](docs/technical_documentation.md)**  
 _Structure of the notebooks, environment setup (Conda), supported LLMs._
 
 👉 **[📦 Download Files](download/README.md)**  
