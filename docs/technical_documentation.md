@@ -87,7 +87,7 @@ To ensure proper execution, follow this step-by-step pipeline:
 
 ## 📬 Contact
 
-For feedback, suggestions, or contributions, feel free to open an [Issue](https://github.com/mauro10051/issues) or submit a Pull Request!
+For feedback, suggestions, or contributions, feel free to open an [Issue](https://github.com/MaGo-AgoraAI/issues) or submit a Pull Request!
 
 ---
 
