@@ -1,17 +1,63 @@
-# 📖 Technical Documentation - MaGo AgoraAI
+# 📖 # 💬 Progetto di Simulazione Intelligente - README
 
-## 🚀 Project Overview
+Benvenuti nel repository dedicato alla simulazione guidata di lezioni e dibattiti tra agenti intelligenti.
 
-MaGo AgoraAI is an AI-powered platform that simulates academic debates and generates concept maps based on user-input questions. The platform leverages expert agents in diverse fields, creating interdisciplinary dialogues. This documentation provides the technical details for setting up and running the system.
+Questa soluzione consente di eseguire in locale notebook Python che sfruttano modelli LLM tramite la piattaforma **Ollama**, con un focus su **Gemma3:12b**.  
 
 ---
 
-## 📦 Setup Guide
+## ✅ Requisiti hardware
 
-### 1. Clone the Repository
+- Scheda grafica **NVIDIA RTX serie 4000 o superiore**
+- Tutti i notebook sono stati testati con:
+  - **GPU:** RTX 4070
+  - **RAM:** 32 GB
+- **Sistema operativo:** Windows (per ora supportato esclusivamente)
 
-To get started, clone the repository to your local machine:
+---
 
-```bash
-git clone https://github.com/your-username/MaGo-AgoraAI.git
-cd MaGo-AgoraAI
+## 🧠 Modello LLM
+
+Il progetto utilizza il modello **Gemma3:12b** eseguito tramite [Ollama](https://ollama.com/).  
+Assicurati di:
+
+- Avere **installato Ollama**
+- Avere **caricato in locale** il modello `gemma3:12b`
+
+> ✨ È possibile usare altri modelli, ma sarà necessario modificare opportunamente il codice.
+>
+> Gemma3 ha garantito ottime performance grazie alla qualità della rete e alla gestione innovativa degli agenti.
+
+---
+
+## 📁 Notebook disponibili
+
+### 1. `1_install.ipynb`  
+Registra il **path di lavoro** dove viene caricato il progetto.  
+⚠️ **Funziona solo su Windows.**
+
+### 2. `2_generate_project.ipynb`  
+Genera la struttura del progetto e i dati iniziali.  
+✅ Se non usi Windows, **puoi partire da qui**, modificando manualmente i percorsi nel codice.
+
+> 🧪 Una versione compatibile con **Google Colab** è in fase di sviluppo.
+
+---
+
+## 📦 Ambiente Python consigliato
+
+Si consiglia l’utilizzo di **[Miniconda](https://docs.conda.io/en/latest/miniconda.html)** o **Anaconda** per creare un ambiente dedicato.
+
+### 📚 Librerie richieste
+
+```python
+import os
+import json
+from pathlib import Path
+import gradio as gr
+import ollama
+import threading
+import time
+import shutil
+import subprocess
+from time import sleep
