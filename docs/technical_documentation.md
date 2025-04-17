@@ -1,54 +1,53 @@
-# 📖 # 💬 Progetto di Simulazione Intelligente - README
+# 📖  Technical Documentation
 
-Benvenuti nel repository dedicato alla simulazione guidata di lezioni e dibattiti tra agenti intelligenti.
+Welcome to the repository dedicated to the guided simulation of lessons and debates between intelligent agents.
 
-Questa soluzione consente di eseguire in locale notebook Python che sfruttano modelli LLM tramite la piattaforma **Ollama**, con un focus su **Gemma3:12b**.  
+This solution allows you to run Python notebooks **locally** using LLM models through the **Ollama** platform, with a focus on **Gemma3:12b**.
 
 ---
 
-## ✅ Requisiti hardware
+## ✅ Hardware Requirements
 
-- Scheda grafica **NVIDIA RTX serie 4000 o superiore**
-- Tutti i notebook sono stati testati con:
+- **NVIDIA RTX 4000 series or higher** graphics card
+- All notebooks have been tested with:
   - **GPU:** RTX 4070
   - **RAM:** 32 GB
-- **Sistema operativo:** Windows (per ora supportato esclusivamente)
+- **Operating System:** Windows (currently the only supported OS)
 
 ---
 
-## 🧠 Modello LLM
+## 🧠 LLM Model
 
-Il progetto utilizza il modello **Gemma3:12b** eseguito tramite [Ollama](https://ollama.com/).  
-Assicurati di:
+This project uses the **Gemma3:12b** model, running locally via [Ollama](https://ollama.com/).  
+Make sure you have:
 
-- Avere **installato Ollama**
-- Avere **caricato in locale** il modello `gemma3:12b`
+- **Installed Ollama**
+- **Downloaded and loaded** the `gemma3:12b` model locally
 
-> ✨ È possibile usare altri modelli, ma sarà necessario modificare opportunamente il codice.
->
-> Gemma3 ha garantito ottime performance grazie alla qualità della rete e alla gestione innovativa degli agenti.
+> ✨ You may test other models, but doing so requires modifying the code accordingly.  
+> Gemma3 has shown excellent performance in our demos, likely due to the model's quality and the innovative management of agents.
 
 ---
 
-## 📁 Notebook disponibili
+## 📁 Available Notebooks
 
 ### 1. `1_install.ipynb`  
-Registra il **path di lavoro** dove viene caricato il progetto.  
-⚠️ **Funziona solo su Windows.**
+Registers the **working path** where this project is loaded.  
+⚠️ **Works only on Windows.**
 
 ### 2. `2_generate_project.ipynb`  
-Genera la struttura del progetto e i dati iniziali.  
-✅ Se non usi Windows, **puoi partire da qui**, modificando manualmente i percorsi nel codice.
+Generates the project structure and initial data.  
+✅ If you're not using Windows, you can **start from this notebook**, but remember to manually set the correct working paths.
 
-> 🧪 Una versione compatibile con **Google Colab** è in fase di sviluppo.
+> 🧪 A version compatible with **Google Colab** is under development.
 
 ---
 
-## 📦 Ambiente Python consigliato
+## 📦 Recommended Python Environment
 
-Si consiglia l’utilizzo di **[Miniconda](https://docs.conda.io/en/latest/miniconda.html)** o **Anaconda** per creare un ambiente dedicato.
+We recommend using **[Miniconda](https://docs.conda.io/en/latest/miniconda.html)** or **Anaconda** to create a dedicated Python environment.
 
-### 📚 Librerie richieste
+### 📚 Required Libraries
 
 ```python
 import os
@@ -61,3 +60,35 @@ import time
 import shutil
 import subprocess
 from time import sleep
+```
+
+---
+
+## ⚙️ Project Pipeline
+
+To ensure proper execution, follow this step-by-step pipeline:
+
+1. **Register the process**
+2. **Extract the conceptual maps**
+3. **Update the profiles of the two agents**
+4. **Run the lessons**
+5. **Start the debate**
+
+⚠️ Do **not** run the lessons or debate before completing the first three steps.
+
+---
+
+## 📌 Final Notes
+
+- The interface is built using **Gradio** for interactive usage.
+- The system is modular and can be easily adapted to new logic and agent behavior.
+
+---
+
+## 📬 Contact
+
+For feedback, suggestions, or contributions, feel free to open an [Issue](https://github.com/YOUR-REPO/issues) or submit a Pull Request!
+
+---
+
+> **Made with ❤️ for interactive AI learning**
