@@ -58,7 +58,7 @@ Free for non-commercial use with attribution.
 
 ## 🌍 **Collaborations and Community**  
 
-We are open to collaborations!  
+We are open to [collaborations!](community/collaboration.md)  
 Join our growing community of developers, educators, and AI enthusiasts to contribute, exchange ideas, and build together.
 
 ---
