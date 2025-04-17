@@ -1,110 +1,66 @@
 # 🏛️ MaGo AgoraAI
 
-**Starting from a question, concept maps are generated and simulated interviews, lectures, and interdisciplinary academic debates are conducted by artificial intelligence agents.**  
-*"Where artificial minds debate like scholars of antiquity."*
+**Where artificial minds debate like scholars of antiquity.**
+
+Starting from a single question, AgoraAI generates concept maps, simulates interviews, lectures, and interdisciplinary academic debates between artificial agents.
 
 ---
 
 ## 🌟 Key Features
 
-- 🎭 **Experts in any field**  
-  Philosophers, scientists, educators — configure any specialist in a multilingual context
-
-- 🧠 **Structured knowledge**  
-  Concept maps and expert profiles are automatically generated
-
-- ⚔️ **Rich debates**  
-  Moderated Q&A sessions with point-counterpoint dialogues
-
-- 📚 **Academic rigor**  
-  Citations and references are supported for scholarly coherence
-
-- 🔧 **Ollama-ready**  
-  Optimized for local LLMs (e.g., Gemma3, Mistral, LLaMA)
+- 🎭 **Customizable Experts**: Configure philosophers, scientists, educators in a multilingual context.
+- 🧠 **Structured Knowledge**: Concept maps and expert profiles are auto-generated.
+- ⚔️ **Rich Debates**: Moderated Q&A sessions with point-counterpoint exchanges.
+- 📚 **Academic Rigor**: Optional citations and references for scholarly coherence.
+- 🔧 **Optimized for Ollama**: Works with local LLMs (e.g., Gemma3, Mistral, LLaMA).
 
 ---
 
-## 🚧 Status
+## 📂 Sections
 
-This project is under active development.  
-Notebooks and demo outputs will be added shortly.
+👉 **[🎮 DEMO – Sample Simulation](#)**  
+_A debate between a physicist and a philosopher about the nature of time._
 
----
+👉 **[📖 Project Philosophy](#)**  
+_Why MaGo AgoraAI? Vision and epistemological background._
 
-## 🧪 Coming soon
+👉 **[📚 Technical Documentation](#)**  
+_Structure of the notebooks, environment setup (Conda), supported LLMs._
 
-- Sample debates between domain experts (e.g., physicist vs philosopher)
-- Visualization of argument evolution and convergence
-- Interface mockups for interactive control
-
----
-## 👥Who is it for
-
-This project is designed for:
-
-- 🎓 Teachers, trainers and researchers in the field of education, philosophy and science
-- 🧠 Experimenters and enthusiasts of argumentative artificial intelligence
-- 🛠️ Developers interested in building dialogic simulation environments between intelligent agents A chi è rivolto
+👉 **[📦 Download Files](#)**  
+_Notebooks, configs, example outputs._
 
 ---
 
-## 📄 Licenza/License
+## 👥 Who is it for?
 
-Questo progetto è distribuito con licenza [**Creative Commons BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/).  
-🔒 **È consentito l'uso, la modifica e la condivisione solo per scopi non commerciali**, con obbligo di attribuzione.  
-📬 Per utilizzi commerciali, contatta gli autori.
-
-This project is licensed under [**Creative Commons BY-NC 4.0**](https://creativecommons.org/licenses/by-nc/4.0/).  
-🔒 **You are free to use, modify, and share it for non-commercial purposes only**, with proper attribution.  
-📬 For commercial use, please contact the authors.
+- 🎓 Teachers, trainers, researchers in philosophy and science
+- 🧠 Experimenters in AI-based argumentation
+- 🛠️ Developers of dialogic simulation environments
 
 ---
 
-## 🤝 Contributors
+## 🔒 License
 
+This project is licensed under **Creative Commons BY-NC 4.0**.  
+Free for non-commercial use with attribution.  
+📬 For commercial licenses, contact the authors.
+
+---
+
+## 🤝 **Created by**  
 - **Mauro** – Concept, Design, Implementation  
-- **Agostino** – Co-author 
+- **Agostino** – Co-author
+
+> _“A good argument doesn’t end the search for truth — it opens new paths toward understanding.”_
 
 ---
 
-> “A good argument doesn’t end the search for truth — it opens new paths toward understanding.”
+## 🌍 **Collaborations and Community**  
+
+We are open to collaborations!  
+Join our growing community of developers, educators, and AI enthusiasts to contribute, exchange ideas, and build together.
 
 ---
 
-## 🧪 DEMO: Simulazione generata da MaGo
-
-### 🎯 Input
-
-1. **Domanda**: _Il tempo è oggettivo o una costruzione della mente?_
-
-2. **Agenti coinvolti**:
-   - **Max**: Docente di fisica teorica
-   - **Samanta**: Professoressa in filosofia della scienza
-
----
-
-### 🧠 Output generato
-
-| Fisico (Max) | Filosofa (Samanta) |
-|--------------|--------------------|
-| ✅ Mappa concettuale | ✅ Mappa concettuale |
-| ✅ Profilo esteso e aggiornato | ✅ Profilo esteso e aggiornato |
-| ✅ Lezione in forma di intervista | ✅ Lezione in forma di intervista |
-| ✅ Dibattito tra i due punti di vista | ✅ Dibattito tra i due punti di vista |
-
-👉 Il risultato finale è un quadro ricco e articolato di riferimenti culturali sul tema oggetto di studio, arricchito dalla **unicità, complementarietà e vicarianza** dei punti di vista dei due attori. Le **lezioni** e il **dibattito** sono testi densi di spunti, con linguaggio scientifico ma divulgativo.
-
----
-
-## 🎮 Demo Interattive
-Esplora le lezioni bilingue e mappe concettuali sul tempo:
-
-[![Demo Banner](https://via.placeholder.com/600x200?text=Time+Debate+Demos)](demo/)  
-*(Clicca per accedere alla demo completa)*
-
-📂 **Contenuti disponibili**:
-- Lezioni di Max (Fisica) 🇬🇧/🇮🇹
-- Lezioni di Samanta (Filosofia) 🇬🇧/🇮🇹
-- Mappe concettuali dedicate--
-
- 
+✅ Also available in [🇮🇹 Italian version](#) (coming soon)
