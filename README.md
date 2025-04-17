@@ -27,7 +27,7 @@ _Why MaGo AgoraAI? Vision and epistemological background._
 👉 **[📚 Technical Documentation](#)**  
 _Structure of the notebooks, environment setup (Conda), supported LLMs._
 
-👉 **[📦 Download Files](#)**  
+👉 **[📦 Download Files](download/README.md)**  
 _Notebooks, configs, example outputs._
 
 ---
