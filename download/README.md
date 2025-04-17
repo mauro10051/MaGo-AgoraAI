@@ -4,7 +4,7 @@ Questo repository contiene i file necessari per eseguire il progetto sia in loca
 
 ## gestione_locale/
 
-La cartella `gestione_locale` contiene i notebook da eseguire in ambiente locale. Vi consigliamo di visitare la pagina ['technical_documentation'](docs/technical_documentation.md) I notebook dovranno essere lanciati secondo un preciso ordine:
+La cartella `gestione_locale` contiene i notebook da eseguire in ambiente locale. Vi consigliamo di visitare la pagina ['technical_documentation'](MaGo-AgoraAI/docs/technical_documentation.md) I notebook dovranno essere lanciati secondo un preciso ordine:
 
 1. [`1_install.ipynb`](gestione_locale/1_install.ipynb): Questo notebook crea e registra il path di lavoro dove posizionare i tuoi notebook e la cartella con tutti i progetti che andrai a costruire.
 2. [`2_generate_project.ipynb`](gestione_locale/2_generate_project.ipynb): In questo notebook devi dare un nome a un nuovo progetto, indicare il tema di studio (che avrà la struttura di una domanda) e la disciplina di base degli Agenti. Ad esempio: Max è un Fisico teorico, Samanta è una filosofa, e la domanda potrebbe essere: "Il tempo è reale o una costruzione della mente?"
