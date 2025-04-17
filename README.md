@@ -18,7 +18,7 @@ Starting from a single question, AgoraAI generates concept maps, simulates inter
 
 ## 📂 Sections
 
-👉 **[🎮 DEMO – Sample Simulation](#)**  
+👉 **[🎮 DEMO – Sample Simulation](demo/README.md)**  
 _A debate between a physicist and a philosopher about the nature of time._
 
 👉 **[📖 Project Philosophy](#)**  
