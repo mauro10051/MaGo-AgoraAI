@@ -2,7 +2,8 @@
 
 Where artificial minds debate like scholars of antiquity.
 
-MaGo AgoraAI: An Experiment in Applied Epistemology for Artificial Intelligence  👉 Read the full abstract in English
+MaGo AgoraAI: An Experiment in Applied Epistemology for Artificial Intelligence  👉 [Read the full abstract in English](./docs/abstract.md)
+
 
 Starting from a single question, AgoraAI generates concept maps, simulates interviews, lectures, and interdisciplinary academic debates between artificial agents.
 
