@@ -1,13 +1,14 @@
 # 🏩 MaGo AgoraAI
 
-Where artificial minds debate like scholars of antiquity.
+Where Artificial Minds Engage in Scholarly Debates, Just Like in the Halls of Antiquity
 
-MaGo AgoraAI: An Experiment in Applied Epistemology for Artificial Intelligence  👉 [Read the full abstract in English](./docs/abstract.md)
+MaGo AgoraAI: An Experiment in Applied Epistemology for Artificial Intelligence 👉 Read the Full Abstract in English
 
-Starting from a single question, AgoraAI generates concept maps, simulates interviews, lectures, and interdisciplinary academic debates between artificial agents.
+MaGo AgoraAI is an innovative system that harnesses the power of dialogue between specialized agents to build knowledge across multiple layers. It begins with a single question, progressing through phases of conceptual mapping, structured outlines, simulated interviews, academic lectures, and interdisciplinary debates among artificial agents.
 
-MaGo-AgoraAI is an innovative system that leverages the power of dialogue between specialized agents to build knowledge at successive levels. Starting from simple questions and answers, the system progressively generates conceptual maps, structured outlines, in-depth interviews, and expert debates, ultimately resulting in complete and coherent university-level theses. Each phase of the process is fueled by the interaction between differentiated roles, creating a continuous enhancement ecosystem that improves the quality and depth of responses through mutual collaboration and correction. A system that goes beyond the simple "outcome" of a question, building dynamic and scalable knowledge.
----
+From these simple beginnings, the system gradually constructs comprehensive university-level theses. This process involves agents in different roles—each contributing unique insights and enhancing the overall discourse. With every iteration, the responses are refined through mutual collaboration and correction, forming an ongoing cycle of continuous improvement.
+
+MaGo AgoraAI goes beyond simply providing an answer to a question. It builds dynamic, scalable knowledge that grows deeper with each phase, leveraging the power of agent-based interactions to generate truly comprehensive, interdisciplinary insights.
 
 ## 🌟 Key Features
 
