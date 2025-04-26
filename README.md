@@ -4,9 +4,9 @@ Where artificial minds debate like scholars of antiquity.
 
 MaGo AgoraAI: An Experiment in Applied Epistemology for Artificial Intelligence  👉 [Read the full abstract in English](./docs/abstract.md)
 
-
 Starting from a single question, AgoraAI generates concept maps, simulates interviews, lectures, and interdisciplinary academic debates between artificial agents.
 
+MaGo-AgoraAI is an innovative system that leverages the power of dialogue between specialized agents to build knowledge at successive levels. Starting from simple questions and answers, the system progressively generates conceptual maps, structured outlines, in-depth interviews, and expert debates, ultimately resulting in complete and coherent university-level theses. Each phase of the process is fueled by the interaction between differentiated roles, creating a continuous enhancement ecosystem that improves the quality and depth of responses through mutual collaboration and correction. A system that goes beyond the simple "outcome" of a question, building dynamic and scalable knowledge.
 ---
 
 ## 🌟 Key Features
