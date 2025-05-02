@@ -35,22 +35,24 @@ python main.py
 
 📁 Struttura dei file
 
-    main.py: file di avvio del progetto.
+    main.py: file di avvio del progetto vengono inserite la domanda e i profili essenziali di Max e di Samnta esempio:Max Fisico  e Samnta filosofo                (vedi esempi) 
 
-    modelli_agenti.py: definizione degli agenti (Pol, Max, Samanta).
+    mappa_max.py: importato da main.py funzione per generare la mappa concettuale testuale di Max 
 
-    mappa_generator.py: logica di costruzione delle mappe concettuali.
+    mappa_sam.py: importato da main.py funzione per generare la mappa concettuale testuale di Samanta 
 
-    valutazione.py: autovalutazione della mappa da parte di Pol.
+    valuta_mappa_max.py: importato da main.py. Funzione dove Pol valuta la mappa concettuale di Max e suggerisce miglioramenti.
 
-    utils.py: funzioni di supporto (stampa, salvataggio, ecc.).
+    valuta_mappa_sam.py: importato da main.py. Funzione dove Pol valuta la mappa concettuale di Samanta e suggerisce miglioramenti
 
 🧾 Funzionalità
 
-    Generazione autonoma di mappe concettuali in linguaggio naturale.
+    Generazione autonoma di mappe concettuali testuali sulla domanda in base al profilo disciplinare  di Max e di Samanta  in linguaggio naturale .
 
     Valutazione automatica della qualità della mappa da parte del moderatore Pol.
 
-    Possibilità di stampare o esportare la mappa generata.
+    Possibilità di esportare le mappa generate.
+
+# Al momento solo per i progetti già sviluppati da noi forniamo le interviste e il dibattito in lingua originale 
 
 Per ulteriori dettagli, torna alla pagina principale del progetto o leggi l’abstract esteso.
