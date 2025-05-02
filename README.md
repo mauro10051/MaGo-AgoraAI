@@ -1,14 +1,49 @@
-# 🏩 MaGo AgoraAI
+# 🎓 MaGo AgoraAI – A Cooperative AI Lesson Engine
 
-Where Artificial Minds Engage in Scholarly Debates, Just Like in the Halls of Antiquity
+**MaGo-AgoraAI** is an experimental framework that simulates a structured, multi-agent conversation around complex topics, generating what we call a **cooperative AI lesson**.
 
-MaGo AgoraAI: An Experiment in Applied Epistemology for Artificial Intelligence 👉  [Read the Full Abstract in English](docs/abstract.md)
+At its core, the system orchestrates a sequence of interactions between three internal agents:
+- **Pol**, a neutral moderator,
+- **Max** and **Samanta**, two expert personas chosen for their complementary perspectives on the topic.: An Experiment in Applied Epistemology for Artificial Intelligence 👉  [Read the Full Abstract in English](docs/abstract.md)
 
-MaGo AgoraAI is an innovative system that harnesses the power of dialogue between specialized agents to build knowledge across multiple layers. It begins with a single question, progressing through phases of conceptual mapping, structured outlines, simulated interviews, academic lectures, and interdisciplinary debates among artificial agents.
+---
+## 🧠 What does it produce?
 
-From these simple beginnings, the system gradually constructs comprehensive university-level theses. This process involves agents in different roles—each contributing unique insights and enhancing the overall discourse. With every iteration, the responses are refined through mutual collaboration and correction, forming an ongoing cycle of continuous improvement.
+Each session starts from a **central question** and unfolds into:
 
-MaGo AgoraAI goes beyond simply providing an answer to a question. It builds dynamic, scalable knowledge that grows deeper with each phase, leveraging the power of agent-based interactions to generate truly comprehensive, interdisciplinary insights.
+- A **conceptual map** and a **structured agenda**,
+- Two **interviews** between Pol and each expert (Max and Samanta),
+- A **cooperative dialogue** between all three agents, where perspectives converge, clarify, or evolve,
+- A final **synthesis** by Pol that distills insights and open questions.
+
+The result is not a traditional debate, nor a static lecture, but an **AI-mediated collaborative exploration** that:
+
+- highlights multiple points of view,
+- builds bridges between them,
+- and makes abstract or technical content accessible without oversimplifying.
+
+---
+
+## ✨ Why it works
+
+- It leverages the **semantic creativity of LLMs** within a **role-structured system**,
+- The agents act as **semantic activators**, increasing depth and temperature without losing coherence,
+- The cooperative tone fosters clarity, not competition — making it ideal for **educational and knowledge dissemination purposes**.
+
+More details on this will be published in the [How It Works](HOW_IT_WORKS.md) and [Why It Works](WHY_IT_WORKS.md) sections.
+
+---
+
+## 🤝 Collaborations and Future Development
+
+We are actively looking for:
+
+- **Educational partners** interested in piloting the tool in classrooms or public talks,
+- **Researchers** in AI, education, philosophy of language, or computational humanities,
+- **Supporters** who can help with **infrastructure or hosting** (the project is locally functional but needs a persistent online presence).
+
+---
+
 
 ## 🌟 Key Features
 
@@ -41,56 +76,7 @@ Structure of the notebooks, environment setup (Conda), supported LLMs.
 
 ---
 
-## 🧪 Project Abstract & Philosophy
 
-> “A good argument doesn’t end the search for truth — it opens new paths toward understanding.”
-
-**Why MaGo AgoraAI?**  
-This project explores whether cooperative internal agents in LLMs can simulate higher-order reasoning, approaching the performance of larger models without fine-tuning or architectural changes. It merges epistemological reflection with practical LLM prompting.
-
----
-
-### 🔬 Context
-
-When you ask a question to a generative model, the quality of the answer depends on architecture and size. Instead of changing the model itself, this project explores *internal dialogue* as a method to enhance performance.
-
-### 🎯 Goal
-
-To test whether internal cooperative agents (simulated via prompting) can improve clarity, depth, and interdisciplinarity in models like **Gemma 3 12B**, simulating the effect of "thinking together".
-
-### 🧪 Method
-
-We created a dialogic engine within **Ollama** running on RTX 4070 using **Gemma 3 12B**.  
-Three roles were simulated:
-
-- **Pol** – Moderator  
-- **Max** – Physicist  
-- **Samanta** – Philosopher
-
-Key outputs:
-
-- Concept maps  
-- Agent profile refinement  
-- Simulated lectures/interviews  
-- Structured debates  
-- Dialectical synthesis
-
-### 📈 Results
-
-Compared to standard prompts, the cooperative-agent setup generates:
-- Higher coherence
-- Better articulation of reasoning
-- Emergence of new ideas
-
-Small models (e.g., 7B) fail to reproduce this behavior, confirming that **emergent cooperation** appears only beyond a complexity threshold.
-
-### 🔍 Hypothesis
-
-Internal agent interaction may act as a **low-entropy attractor** — organizing knowledge via local feedback loops and mimicking early forms of **self-organizing cognition**.
-
-This could be interpreted as *simulated autopoiesis* — an artificial mind structuring its own internal order through dialogue.
-
----
 
 ## 🔒 License
 
@@ -107,10 +93,6 @@ Free for non-commercial use with attribution.
 
 ---
 
-## 🌍 Collaborations and Community
-
-We are open to collaborations!  
-Join our growing community of developers, educators, and AI enthusiasts to contribute, exchange ideas, and build together.
 
 ✅ Also available in 🇮🇹 Italian version (coming soon)
 
