@@ -1,0 +1,91 @@
+**Concetti fondamentali**
+
+*   **Realismo vs. Idealismo:** Distinzione tra la realtà esistente indipendentemente dall'osservatore (realismo) e la realtà come costrutto mentale o dipendente dalla percezione (idealismo).
+*   **Fenomenologia:** Studio dell'esperienza cosciente e di come il soggetto percepisce e interpreta il mondo.
+*   **Costruttivismo:** Teoria che sostiene che la conoscenza non è una copia della realtà, ma una costruzione attiva dell'osservatore.
+*   **Soggettività vs. Oggettività:** Differenza tra la prospettiva individuale e la presunta neutralità della conoscenza.
+*   **Intenzionalità:** Caratteristica della coscienza di essere diretta verso un oggetto, un significato.
+*   **Correlazione:** Relazione tra l'osservatore e l'osservato, dove l'atto di osservare può influenzare ciò che viene osservato.
+*   **Epistemologia della percezione:** Studio di come la conoscenza deriva dai sensi e come i sensi possono essere ingannati o limitati.
+*   **Ontologia della conoscenza:** Indagine sulla natura della conoscenza stessa: cos'è, come esiste, quali sono le sue proprietà.
+*   **Principio di indeterminazione (in relazione all'osservazione):** Limite alla precisione con cui certe coppie di proprietà fisiche possono essere conosciute simultaneamente, implicando un ruolo dell'osservazione nel determinare il risultato.
+*   **Strutture concettuali:** Schemi mentali preesistenti che influenzano l'interpretazione della realtà.
+
+**Relazioni tra concetti fondamentali**
+
+*   Il realismo e l'idealismo definiscono i poli opposti di una discussione sulla dipendenza della realtà dall'osservatore.
+*   La fenomenologia fornisce gli strumenti per analizzare come la soggettività dell'osservatore modella l'esperienza della realtà.
+*   Il costruttivismo deriva dalla combinazione di idealismo e fenomenologia, sostenendo che la conoscenza è una costruzione attiva e soggettiva.
+*   L'intenzionalità della coscienza implica che l'osservatore non è un recettore passivo, ma un agente che proietta significato sul mondo.
+*   Il principio di indeterminazione evidenzia una correlazione tra l'atto di osservazione e la realtà osservata, mettendo in discussione la possibilità di una conoscenza oggettiva.
+*   Le strutture concettuali preesistenti mediano tra l'osservatore e la realtà, influenzando l'interpretazione e la categorizzazione dell'esperienza.
+*   L'ontologia della conoscenza si interroga sulla natura stessa della conoscenza, e quindi sulla possibilità di una conoscenza indipendente dall'osservatore.
+
+**Evoluzione storica**
+
+*   **Platone:** Teoria delle Idee come realtà trascendente, accessibile solo attraverso la ragione, non attraverso i sensi.
+*   **Kant:** Distinzione tra fenomeno (ciò che appare) e noumeno (la cosa in sé), inaccessibile alla conoscenza umana. L'osservatore struttura l'esperienza attraverso categorie a priori.
+*   **Idealismo tedesco (Hegel):** La realtà come sviluppo dialettico dello Spirito, dove la coscienza gioca un ruolo attivo nella sua manifestazione.
+*   **Fenomenologia (Husserl):** Ritorno alle "cose stesse" attraverso l'epoché, la sospensione dei giudizi e l'analisi dell'esperienza cosciente.
+*   **Filosofia Analitica (inizio XX secolo):** Tentativo di chiarire i concetti e di eliminare l'ambiguità attraverso l'analisi logica del linguaggio.
+*   **Post-strutturalismo (fine XX secolo):** Decostruzione dei concetti e delle strutture di potere che influenzano la conoscenza.
+
+**Scuole di pensiero o approcci teorici**
+
+*   **Realismo scientifico:** La scienza mira a descrivere la realtà oggettiva, indipendente dall'osservatore.
+*   **Strumentalismo:** La conoscenza scientifica è uno strumento per prevedere e controllare i fenomeni, non per descrivere la realtà.
+*   **Costruttivismo sociale:** La conoscenza è costruita socialmente attraverso l'interazione e il linguaggio.
+*   **Pragmatismo:** La verità di una credenza è determinata dalla sua utilità pratica.
+*   **Femminismo costruttivista:** Critica alla presunta oggettività della scienza e alla sua influenza sulle relazioni di potere.
+
+**Autori e figure chiave**
+
+*   **Platone:** Teoria delle Idee.
+*   **Immanuel Kant:** *Critica della ragion pura*.
+*   **Georg Wilhelm Friedrich Hegel:** *Fenomenologia dello spirito*.
+*   **Edmund Husserl:** *Idee per una fenomenologia pura e una filosofia fenomenologica*.
+*   **Martin Heidegger:** *Essere e tempo*.
+*   **Michel Foucault:** *Le parole e le cose*.
+*   **Thomas Kuhn:** *La struttura delle rivoluzioni scientifiche*.
+*   **Bruno Latour:** *Science in Action*.
+
+**Eventi o esperimenti rilevanti**
+
+*   **Esperimento della doppia fenditura (fisica quantistica):** Dimostra come l'atto di osservare un sistema quantistico ne influenza il comportamento.
+*   **Esperimenti di psicologia della Gestalt:** Illustrano come la percezione è influenzata da fattori contestuali e dalle aspettative dell'osservatore.
+*   **Esperimenti di psicologia sociale (es. esperimento di Milgram):** Mostrano come il comportamento umano è influenzato dal contesto sociale e dalle figure di autorità.
+
+**Dibattiti aperti e controversie**
+
+*   **Il problema della mente-corpo:** Come la coscienza, un fenomeno mentale, interagisce con il corpo fisico.
+*   **La natura della realtà quantistica:** Se la realtà esiste indipendentemente dall'osservazione o se l'osservazione la crea.
+*   **Il ruolo dei valori nella scienza:** Se e come i valori degli scienziati influenzano la ricerca scientifica.
+*   **La possibilità di una conoscenza oggettiva:** Se è possibile raggiungere una conoscenza che sia indipendente dalla prospettiva dell'osservatore.
+
+**Ambito interdisciplinare**
+
+*   **Fisica quantistica:** Il principio di indeterminazione e l'effetto osservatore sollevano questioni filosofiche sulla natura della realtà.
+*   **Psicologia:** La percezione, la cognizione e la memoria dimostrano come la mente costruisce attivamente la realtà.
+*   **Sociologia:** La costruzione sociale della realtà evidenzia come la conoscenza è influenzata dal contesto sociale e culturale.
+*   **Antropologia:** Lo studio delle diverse culture rivela come la conoscenza è relativa e dipendente dal punto di vista.
+*   **Neuroscienze:** L'indagine sui meccanismi neurali della percezione e della cognizione può fornire nuove prospettive sul ruolo dell'osservatore.
+
+
+
+**Reference scientifiche estese**
+
+*   Kant, I. (1781). *Critica della ragion pura*.
+*   Hegel, G.W.F. (1807). *Fenomenologia dello spirito*.
+*   Husserl, E. (1913). *Idee per una fenomenologia pura e una filosofia fenomenologica*.
+*   Foucault, M. (1966). *Le parole e le cose*.
+*   Kuhn, T.S. (1962). *La struttura delle rivoluzioni scientifiche*.
+*   Latour, B. (1987). *Science in Action*.
+*   Chalmers, D. (1996). *The Conscious Mind*.
+*   Searle, J. (1980). *Minds, Brains, and Computers*.
+*   Stanford Encyclopedia of Philosophy: [https://plato.stanford.edu/](https://plato.stanford.edu/) (per approfondimenti su concetti e autori)
+*   Internet Encyclopedia of Philosophy: [https://iep.utm.edu/](https://iep.utm.edu/) (altra risorsa utile per approfondimenti)
+*   Bohr, N. (1927). *Discussion with Einstein on the Interpretation of Quantum Mechanics*.
+*   Wheeler, J. A., & Zurek, W. (1983). Quantum mechanics and the observer effect. *Reviews of Modern Physics, 55*(1), 483-501.
+*   Hacking, I. (1998). *The Social Construction of What?*. Harvard University Press.
+*   Longino, C. (1990). *Science as Social Knowledge*. Princeton University Press.
+*   Collins, H. M., & Evans, R. (2007). *Retrying the Trial: Ashford, Latour, and the Social Construction of Knowledge*. *Social Studies of Science, 37*(1), 1-34.
