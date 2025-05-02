@@ -29,20 +29,6 @@ Make sure you have:
 
 ---
 
-## 📁 Available Notebooks
-
-### 1. `1_install.ipynb`  
-Registers the **working path** where this project is loaded.  
-⚠️ **Works only on Windows.**
-
-### 2. `2_generate_project.ipynb`  
-Generates the project structure and initial data.  
-✅ If you're not using Windows, you can **start from this notebook**, but remember to manually set the correct working paths.
-
-> 🧪 A version compatible with **Google Colab** is under development.
-
----
-
 ## 📦 Recommended Python Environment
 
 We recommend using **[Miniconda](https://docs.conda.io/en/latest/miniconda.html)** or **Anaconda** to create a dedicated Python environment.
@@ -68,10 +54,10 @@ from time import sleep
 
 To ensure proper execution, follow this step-by-step pipeline:
 
-1. **Register the process**
+1. **Register the projects**
 2. **Extract the conceptual maps**
 3. **Update the profiles of the two agents**
-4. **Run the lessons**
+4. **Run the interviews**
 5. **Start the debate**
 
 ⚠️ Do **not** run the lessons or debate before completing the first three steps.
@@ -80,7 +66,7 @@ To ensure proper execution, follow this step-by-step pipeline:
 
 ## 📌 Final Notes
 
-- The interface is built using **Gradio** for interactive usage.
+- The interface is built using **Tkinter** for interactive usage.
 - The system is modular and can be easily adapted to new logic and agent behavior.
 
 ---
