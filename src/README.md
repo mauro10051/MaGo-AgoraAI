@@ -45,6 +45,8 @@ python main.py
 
     valuta_mappa_sam.py: importato da main.py. Funzione dove Pol valuta la mappa concettuale di Samanta e suggerisce miglioramenti
 
+    La Cartella Progetti contiene alcuni progetti sviluppati da noi da utilizzare come demo. Potete sovrascrivere a questi progetti o aprirne di          nuovi che verranno saalvati in questa cartella 
+
 🧾 Funzionalità
 
     Generazione autonoma di mappe concettuali testuali sulla domanda in base al profilo disciplinare  di Max e di Samanta  in linguaggio naturale .
