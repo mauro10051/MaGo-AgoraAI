@@ -18,7 +18,7 @@ A multidisciplinary exploration of time through physics, philosophy, and neurosc
 
 🔹 **Generated concept map**  
 A structured textual map of the key ideas emerging from agent dialogue.  
-[🧠 Download the concept map (PDF)](./examples/mappa_concettuale_tempo.pdf)
+[🧠 Download the concept map (PDF)](./examples/map_concept_time.pdf)
 
 ---
 
