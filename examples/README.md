@@ -14,11 +14,11 @@ It is not just a content generator: it’s an **interactive learning environment
 
 🔹 **Academic thesis on the concept of time**  
 A multidisciplinary exploration of time through physics, philosophy, and neuroscience.  
-[📄 Download the thesis (PDF)](./examples/tesina_tempo.pdf)
+[📄 Download the thesis (PDF)](/examples/thesis_tempo.pdf)
 
 🔹 **Generated concept map**  
 A structured textual map of the key ideas emerging from agent dialogue.  
-[🧠 Download the concept map (PDF)](./examples/map_concept_time.pdf)
+[🧠 Download the concept map (PDF)](/examples/map_concept_time.pdf)
 
 ---
 
