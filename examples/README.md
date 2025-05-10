@@ -1,7 +1,7 @@
 ## ✨ MaGo-AgoraAI – A Dialogic Agora for Guided Learning
 
 <p align="center">
-  <img src="./examples/progetto_agoraAI.png" width="600"/><br>
+  <img src="/examples/progetto_agoraAI.png" width="600"/><br>
   <em>MaGo-AgoraAI: a dialogic space between students, teachers, and AI agents</em>
 </p>
 
