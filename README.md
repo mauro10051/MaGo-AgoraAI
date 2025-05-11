@@ -1,106 +1,87 @@
-# 🎓 MaGo AgoraAI – A Cooperative AI Lesson Engine  
-_A Role-Based, Multi-Agent LLM Framework for Collaborative Learning_
+# 🧠 MaGo AgoraAI
+
+AgoraAI is a system designed to generate **concept maps**, **simulated interviews**, **interdisciplinary dialogues**, and **academic theses** starting from a simple initial question.
+
+## 🚀 Key Features
+
+- Guided project creation with definition of the initial question and expertise of the agents.
+- Automatic generation of concept maps (Max and Samanta).
+- Evaluation of contributions by a moderator (Pol).
+- Production of simulated interviews and dialogues between agents with different perspectives.
+- Generation of academic-level texts (theses, lectures, interdisciplinary insights).
+
+> ⚙️ **Technologies**: Python + [Ollama](https://ollama.com/) + Gemma 3 model (12B).  
+> Compatible with other medium-sized open-source LLM models.
 
 ---
 
-### ✨ What is MaGo-AgoraAI?
+## 🧩 Dialogical Approach
 
-**MaGo-AgoraAI** is an experimental AI framework that moves beyond flat, monologic text generation. It proposes a **dialogic and cooperative approach** to knowledge construction — inspired by Socratic dialectics and interdisciplinary scientific debate.
+The core of AgoraAI is the interaction between **simulated agents**:
 
-Through simulated interaction between **epistemic agents** (e.g., physicist, philosopher, artist), and guided by a **reflective moderator** (Pol), the system generates rich, structured, and explanatory texts rooted in academic rigor and interdisciplinary synthesis.
+- **Max** – an expert in a specific discipline (e.g., theoretical physics).
+- **Samanta** – an expert in another discipline (e.g., philosophy).
+- **Pol** – the moderator who synthesizes, evaluates, and guides the discussion.
 
----
-
-## 🎯 What Makes It Unique?
-
-- 💡 **Depth over surface** – multilayered reasoning, not mere summarization  
-- 🧭 **Iterative cycles** – questions, answers, synthesis, reflection  
-- 🧠 **Cooperative reasoning** – agents revise and converge, simulating learning  
-- 📚 **Academic clarity** – structured output that explains, not just informs  
-- 🧩 **Interdisciplinary by design** – real interaction across domains
+This approach enables the system to **develop complex** and **interdisciplinary elaborations**, even with a single defined viewpoint.
 
 ---
 
-## 🧪 What Does It Produce?
+## 🖥️ Desktop Interface
 
-Starting from a user-defined **central question**, MaGo-AgoraAI generates:
+AgoraAI is also available as a desktop application. Below are two versions:
 
-- 🗺️ A **conceptual map** and expert agenda  
-- 🎤 **Two interviews** with agents (e.g., Max the physicist, Samanta the philosopher)  
-- 🤝 A **collaborative dialogue**, where insights converge or clash  
-- 🧾 A final **synthesis**, authored by the moderator (Pol), distilling the session  
+### ✅ Version 1 (public)
 
-The result is not a static lecture nor a chaotic chat — but a **guided epistemic journey**, blending perspectives to deepen understanding.
+Allows users to create projects, generate concept maps, and view evaluations. It is designed to be simple, accessible, and usable in educational settings.
 
----
-
-## 🔧 How It Works
-
-- 🧠 Agents are **role-based LLMs**, each with domain-specific reasoning  
-- 🤖 The moderator (Pol) drives the conversation, evaluates answers, and refines questions  
-- 🪜 Each cycle builds upon the previous, enabling **second-order learning**
-
-This architecture — even when powered by compact models like **Gemma 3B** — achieves results comparable to larger LLMs thanks to its **modular design** and **semantic choreography**.
-
-More technical details in:  
-📄 [`docs/HOW_IT_WORKS.md`](docs/HOW_IT_WORKS.md) | [`docs/WHY_IT_WORKS.md`](docs/WHY_IT_WORKS.md)
+![Version 1](images/version1.png)  
+*Simplified interface with basic functions: suitable for all users.*
 
 ---
 
-## 🌟 Key Features
+### 🔒 Version 2 (full)
 
-- 🎭 **Customizable Expert Roles** (philosopher, scientist, educator, etc.)  
-- 🌐 **Multilingual Capabilities**  
-- 🧠 **Auto-generated Concept Maps** & Structured Agendas  
-- 🗣️ **Dialogic Reasoning**: Point/counterpoint guided by a meta-moderator  
-- 🧾 **Citable Outputs**: Optional references and academic-style formatting  
-- ⚙️ **Optimized for Local Use** with Ollama (Gemma, Mistral, LLaMA, etc.)
+Advanced version with additional features, currently not publicly available:
 
----
+- Generation of **scientific profiles**, **simulated interviews**, and **cooperative dialogues**.
+- Production of **lectures and academic texts** on any topic.
+- Extreme flexibility: even a single initial viewpoint can trigger the entire process.
 
-## 🧬 Use Cases (Available Now!)
-
-Ready-to-run **case studies** are available in the `src` folder:  
-- 🌀 A physicist and philosopher debate the nature of time  
-- 🎼 A musician and physicist discuss space and resonance  
-- 📐 A mathematician and philosopher reflect on abstraction  
-
-> 💡 Try them out now by cloning the repo and launching a session locally.
+![Version 2](images/version2.png)  
+*Complete interface for creating master's level texts from a single question.*
 
 ---
 
-## 🤝 Call for Collaboration
+## 📦 Main Libraries
 
-This project is functional — but **to go further, we need your help**.
-
-We’re actively looking for:
-
-- 🎓 **Educators & facilitators** interested in testing it in classrooms, workshops, or talks  
-- 🧠 **Researchers** in AI, computational philosophy, or epistemology  
-- 🛠️ **Contributors** for:
-  - Backend development (deployment, hosting with GPU)  
-  - Integration of versioning systems for storing and revisiting sessions  
-  - Qualitative evaluation of generated dialogues and concept maps  
-
-> 📨 If you're intrigued, please reach out or open a GitHub issue — we’d love to collaborate!
+- [Ollama](https://ollama.com/) – to run LLM models locally.
+- Standard Python libraries for GUI (e.g., `tkinter`), file management, PDF, etc.
 
 ---
 
-## 📂 Project Structure
+## 🧪 Use Case Examples
 
-- `src/` – Demo sessions and agent templates  
-- `notebooks/` – Development notebooks and concept generation logic  
-- `docs/` – Abstracts, architectural explanation, methodology  
+- Philosophy of mind and quantum physics.
+- AI ethics and computer engineering.
+- History and neuroscience.
+
+The user defines the viewpoints and the initial question. The system then automatically generates consistent and in-depth content.
+
+---
+
+## 📂 Future Projects
+
+- Release of the full version with dialogue memory management.
+- Integration with web frontend.
+- Advanced customization features for agents and disciplinary domains.
 
 ---
 
-## 👥 Who Is This For?
+## 📫 Contact
 
-- 🎓 Educators, researchers, and students in science & philosophy  
-- 🤖 AI practitioners exploring dialogic reasoning  
-- 🛠️ Builders of human-AI collaboration environments  
+For information, suggestions, or collaborations: [Insert contact or link to your profile here]
 
----
 
 ## 🔒 License (CC BY-NC 4.0)
 
