@@ -98,6 +98,7 @@ Free for non-commercial use with attribution.
 
 ---
 
-✅ *Also available in 🇮🇹 Italian (coming soon)*  
+✅ *Also available in 🇮🇹 Italian
+For the Italian version of this README, please check [README_it.md](README_it.md).
 
 
