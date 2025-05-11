@@ -35,7 +35,7 @@ AgoraAI is also available as a desktop application. Below are two versions:
 
 Allows users to create projects, generate concept maps, and view evaluations. It is designed to be simple, accessible, and usable in educational settings.
 
-![Version 1](images/version1.png)  
+![Version 1](images/Vers_1.png)  
 *Simplified interface with basic functions: suitable for all users.*
 
 ---
@@ -48,7 +48,7 @@ Advanced version with additional features, currently not publicly available:
 - Production of **lectures and academic texts** on any topic.
 - Extreme flexibility: even a single initial viewpoint can trigger the entire process.
 
-![Version 2](images/version2.png)  
+![Version 2](images/Vers_2.png)  
 *Complete interface for creating master's level texts from a single question.*
 
 ---
