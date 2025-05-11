@@ -35,7 +35,9 @@ AgoraAI è disponibile anche come applicazione desktop. Di seguito due versioni:
 
 Permette di creare progetti, generare mappe concettuali e visualizzare valutazioni. È pensata per essere semplice, accessibile e utilizzabile anche in ambito scolastico.
 
-![Versione 1](images/Vers_1.png)  
+![Versione 1](images/Vers_1.png) 
+
+
 *Interfaccia semplificata con funzioni di base: adatta a tutti.*
 
 ---
@@ -81,3 +83,18 @@ L’utente definisce i punti di vista e la domanda iniziale. Il sistema genera a
 ## 📫 Contatti
 
 Per informazioni, suggerimenti o collaborazioni: [Inserisci qui un contatto o link al tuo profilo
+
+## 🔒 License (CC BY-NC 4.0)
+
+This project is licensed under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+Free for non-commercial use with attribution.  
+📬 For commercial licensing, please contact the authors.
+
+---
+
+## 🧾 Authors
+
+- **Mauro** – Concept, architecture, implementation  
+- **Agostino** – Co-author, epistemic design  
+
+
