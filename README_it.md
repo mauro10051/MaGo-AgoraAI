@@ -1,6 +1,22 @@
-# 🧠 MaGo AgoraAI
+# 🧠 MaGo AgoraAI  
+da una domanda genera **mappe concettuali**, **interviste simulate**, **dialoghi interdisciplinari** e **tesi accademiche** 
 
-AgoraAI è un sistema che consente di generare **mappe concettuali**, **interviste simulate**, **dialoghi interdisciplinari** e **tesi accademiche** partendo da una semplice domanda iniziale.
+## 🎯 Il primo motore di dibattiti accademici interdisciplinari generati da IA.
+    
+    Immagina di chiedere "Cos'è il tempo?" e ottenere in 40 minuti:
+
+        📚 Due tesine magistrali (es.: fisica relativistica vs. filosofia del tempo), complete di bibliografia.
+
+        🗺️ Mappe concettuali che collegano le due discipline.
+
+        ⚡ Un dibattito strutturato dove le IA "interpretano" posizioni opposte, con argomentazioni da conferenza accademica.
+
+## Perché è innovativo?
+
+        🔥 Nessun tool oggi combina ricerca multidisciplinare, sintesi accademica *e* dialettica automatica.
+
+        🚀 Da domanda a paper complesso in meno di un’ora, pronto per revisione umana.
+
 
 ## 🚀 Funzionalità principali
 
