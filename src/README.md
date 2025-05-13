@@ -13,9 +13,6 @@ Questa cartella contiene i file Python necessari per eseguire la versione base d
 ```bash
 conda create -n mago python=3.10
 conda activate mago
-pip install -r requirements.txt
-
-    Se il file requirements.txt non è presente, puoi aggiungerlo o elencare manualmente le librerie necessarie (es. requests, pyyaml, ecc.).
 
 🧠 Installazione di Ollama
 
@@ -29,7 +26,7 @@ ollama run gemma:12b
 
 🚀 Esecuzione del progetto
 
-Il file principale è main.py (puoi rinominare progetto.py in main.py per convenzione):
+Il file principale è main.py 
 
 python main.py
 
@@ -57,4 +54,3 @@ python main.py
 
 # Al momento solo per i progetti già sviluppati da noi forniamo le interviste e il dibattito in lingua originale 
 
-Per ulteriori dettagli, torna alla pagina principale del progetto o leggi l’abstract esteso.
