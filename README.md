@@ -1,7 +1,7 @@
-🧠 MaGo AgoraAI
+# 🧠 MaGo AgoraAI
 
 From a single question, generate concept maps, simulated interviews, interdisciplinary dialogues, and academic theses.
-🎯 The first AI-powered engine for interdisciplinary academic debates.
+## 🎯 The first AI-powered engine for interdisciplinary academic debates.
 
 Imagine asking, “What is time?” and receiving in just 40 minutes:
 
@@ -11,13 +11,13 @@ Imagine asking, “What is time?” and receiving in just 40 minutes:
 
     ⚡ A structured debate where AI agents embody opposing perspectives with academic-level arguments.
 
-Why is it innovative?
+## Why is it innovative?
 
     🔥 No other tool combines multidisciplinary research, academic synthesis, and automated dialectics.
 
     🚀 From question to complex academic paper in under an hour – ready for human review.
 
-🚀 Core Features
+## 🚀 Core Features
 
     Guided project creation with definition of the initial question and agent expertise.
 
