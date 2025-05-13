@@ -1,56 +1,56 @@
-# MaGo AgoraAI - Codice Sorgente
+# MaGo AgoraAI - Source Code
 
-Questa cartella contiene i file Python necessari per eseguire la versione base del progetto MaGo AgoraAI, limitata alla generazione di mappe concettuali a partire da una domanda iniziale.
+This folder contains the necessary Python files to run the base version of the MaGo AgoraAI project, limited to generating concept maps from an initial question.
 
-## ✅ Requisiti
+## ✅ Requirements
 
 - Python ≥ 3.10
-- [Ollama](https://ollama.com) (per eseguire modelli LLM localmente)
-- Ambiente virtuale consigliato: **conda**
+- [Ollama](https://ollama.com) (to run LLM models locally)
+- Recommended virtual environment: **conda**
 
-## ⚙️ Setup ambiente (consigliato con Conda)
+## ⚙️ Setting Up the Environment (Recommended with Conda)
 
 ```bash
 conda create -n mago python=3.10
 conda activate mago
 
-🧠 Installazione di Ollama
+🧠 Installing Ollama
 
-Per installare Ollama, segui le istruzioni ufficiali:
+To install Ollama, follow the official instructions:
 
-👉 https://ollama.com/download
+👉 Ollama Download
 
-Assicurati che il modello gemma:12b sia scaricato e attivo:
+Ensure that the model gemma:12b is downloaded and running:
 
 ollama run gemma:12b
 
-🚀 Esecuzione del progetto
+🚀 Running the Project
 
-Il file principale è main.py 
+The main file is main.py:
 
 python main.py
 
-📁 Struttura dei file
+📁 File Structure
 
-    main.py: file di avvio del progetto vengono inserite la domanda e i profili essenziali di Max e di Samnta esempio:Max Fisico  e Samnta filosofo                (vedi esempi) 
+    main.py: The project startup file. It prompts for the main question and the essential profiles of Max and Samanta (e.g., Max the Physicist and Samanta the Philosopher) (see examples).
 
-    mappa_max.py: importato da main.py funzione per generare la mappa concettuale testuale di Max 
+    mappa_max.py: Imported by main.py. Function to generate Max's text-based concept map.
 
-    mappa_sam.py: importato da main.py funzione per generare la mappa concettuale testuale di Samanta 
+    mappa_sam.py: Imported by main.py. Function to generate Samanta's text-based concept map.
 
-    valuta_mappa_max.py: importato da main.py. Funzione dove Pol valuta la mappa concettuale di Max e suggerisce miglioramenti.
+    valuta_mappa_max.py: Imported by main.py. Function where Pol evaluates Max's concept map and suggests improvements.
 
-    valuta_mappa_sam.py: importato da main.py. Funzione dove Pol valuta la mappa concettuale di Samanta e suggerisce miglioramenti
+    valuta_mappa_sam.py: Imported by main.py. Function where Pol evaluates Samanta's concept map and suggests improvements.
 
-    La Cartella Progetti contiene alcuni progetti sviluppati da noi da utilizzare come demo. Potete sovrascrivere a questi progetti o aprirne di          nuovi che verranno saalvati in questa cartella 
+    Progetti Folder: Contains some demo projects created by us. You can overwrite these projects or create new ones, which will be saved in this folder.
 
-🧾 Funzionalità
+🧾 Features
 
-    Generazione autonoma di mappe concettuali testuali sulla domanda in base al profilo disciplinare  di Max e di Samanta  in linguaggio naturale .
+    Automatic generation of text-based concept maps based on the question, using Max's and Samanta's academic profiles in natural language.
 
-    Valutazione automatica della qualità della mappa da parte del moderatore Pol.
+    Automatic evaluation of the map's quality by the moderator Pol.
 
-    Possibilità di esportare le mappa generate.
+    Ability to export the generated maps.
 
-# Al momento solo per i progetti già sviluppati da noi forniamo le interviste e il dibattito in lingua originale 
+Currently, for the projects developed by us, we provide the original-language, interviews, debates and thesis
 
