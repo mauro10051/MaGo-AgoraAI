@@ -55,7 +55,6 @@ Permette di creare progetti, generare mappe concettuali e visualizzare valutazio
 
 
 *Interfaccia semplificata con funzioni di base: adatta a tutti.*
-
 ---
 
 ### 🔒 Versione 2 (completa)
@@ -70,6 +69,14 @@ Versione avanzata con funzionalità aggiuntive, attualmente non pubblica:
 *Interfaccia completa per creare testi di livello magistrale da una singola domanda.*
 
 ---
+
+## 🧠 MaGo-AgoraAI - Download
+
+### 🔧 Developer Version (Source Code)
+👉 [Vai al codice sorgente su GitHub](src/README.md)
+
+### ⚡ Ready-to-Use Version (Windows EXE)
+👉 [Download diretto dell’eseguibile (ZIP)](https://drive.google.com/uc?export=download&id=1eRd2D9GcNah13FuXAYoGgO5VwaCB5e8F)
 
 ## 📦 Librerie principali
 
