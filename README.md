@@ -70,6 +70,14 @@ Advanced version with additional features, currently not publicly available:
 ![Version 2](images/Vers_2.png)  
 *Complete interface for creating master's level texts from a single question.*
 
+## 🧠 MaGo-AgoraAI - Download
+
+### 🔧 Developer Version (Source Code)
+👉 [Go to GitHub Repository](src/README.md)
+
+### ⚡ Ready-to-Use Version (Windows EXE)
+👉 [Direct ZIP Download ](https://drive.google.com/uc?export=download&id=1eRd2D9GcNah13FuXAYoGgO5VwaCB5e8F)
+
 ---
 
 ## 📦 Main Libraries
