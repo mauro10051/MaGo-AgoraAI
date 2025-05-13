@@ -1,17 +1,36 @@
-# 🧠 MaGo AgoraAI
+🧠 MaGo AgoraAI
 
-AgoraAI is a system designed to generate **concept maps**, **simulated interviews**, **interdisciplinary dialogues**, and **academic theses** starting from a simple initial question.
+From a single question, generate concept maps, simulated interviews, interdisciplinary dialogues, and academic theses.
+🎯 The first AI-powered engine for interdisciplinary academic debates.
 
-## 🚀 Key Features
+Imagine asking, “What is time?” and receiving in just 40 minutes:
 
-- Guided project creation with definition of the initial question and expertise of the agents.
-- Automatic generation of concept maps (Max and Samanta).
-- Evaluation of contributions by a moderator (Pol).
-- Production of simulated interviews and dialogues between agents with different perspectives.
-- Generation of academic-level texts (theses, lectures, interdisciplinary insights).
+    📚 Two master-level papers (e.g., relativistic physics vs. philosophy of time), complete with bibliography.
 
-> ⚙️ **Technologies**: Python + [Ollama](https://ollama.com/) + Gemma 3 model (12B).  
-> Compatible with other medium-sized open-source LLM models.
+    🗺️ Concept maps bridging both disciplines.
+
+    ⚡ A structured debate where AI agents embody opposing perspectives with academic-level arguments.
+
+Why is it innovative?
+
+    🔥 No other tool combines multidisciplinary research, academic synthesis, and automated dialectics.
+
+    🚀 From question to complex academic paper in under an hour – ready for human review.
+
+🚀 Core Features
+
+    Guided project creation with definition of the initial question and agent expertise.
+
+    Automatic generation of concept maps (by Max and Samanta).
+
+    Evaluation of contributions via a moderator (Pol).
+
+    Simulated interviews and dialogues between agents with different viewpoints.
+
+    Generation of academic-level texts (essays, course materials, interdisciplinary analyses).
+
+    ⚙️ Technologies: Python + Ollama + Gemma 3 (12B) model.
+    Compatible with other medium-sized open-source LLMs.
 
 ---
 
