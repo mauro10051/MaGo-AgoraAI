@@ -27,7 +27,7 @@ Feel free to:
 - Tell us how you’re using MaGo AgoraAI in your classroom
 - Suggest topics for future development
 
-👉 [Join the Discussions here]([https://github.com/mauro10051/MaGo-AgoraAI/discussions])
+👉 [Join the Discussions here](https://github.com/mauro10051/MaGo-AgoraAI/discussions)
 
 This is a community-driven project. Your feedback and ideas are always welcome!
 
