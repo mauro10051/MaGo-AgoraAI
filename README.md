@@ -17,6 +17,21 @@ Imagine asking, “What is time?” and receiving in just 40 minutes:
 
     🚀 From question to complex academic paper in under an hour – ready for human review.
 
+## 💬 Join the Community Discussions
+
+We’ve opened a dedicated space for open conversations about **MaGo AgoraAI**.
+
+Feel free to:
+- Ask questions about how the software works
+- Share ideas for improvements or features
+- Tell us how you’re using MaGo AgoraAI in your classroom
+- Suggest topics for future development
+
+👉 [Join the Discussions here]([https://github.com/mauro10051/MaGo-AgoraAI/discussions])
+
+This is a community-driven project. Your feedback and ideas are always welcome!
+
+
 ## 🚀 Core Features
 
     Guided project creation with definition of the initial question and agent expertise.
