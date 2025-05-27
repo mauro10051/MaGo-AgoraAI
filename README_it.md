@@ -41,42 +41,37 @@ Il cuore di AgoraAI è l’interazione tra **agenti simulati**:
 
 Questo approccio consente al sistema di **sviluppare elaborati complessi** e **interdisciplinari**, anche con un solo punto di vista definito.
 
----
+# 🧠 MaGo-AgoraAI
 
-## 🖥️ Interfaccia Desktop
-
-AgoraAI è disponibile anche come applicazione desktop. Di seguito due versioni:
-
-### ✅ Versione 1 (pubblica)
-
-Permette di creare progetti, generare mappe concettuali e visualizzare valutazioni. È pensata per essere semplice, accessibile e utilizzabile anche in ambito scolastico.
-
-![Versione 1](images/Vers_1.png) 
-
-
-*Interfaccia semplificata con funzioni di base: adatta a tutti.*
----
-
-### 🔒 Versione 2 (completa)
-
-Versione avanzata con funzionalità aggiuntive, attualmente non pubblica:
-
-- Generazione di **profili scientifici**, **interviste simulate** e **dialoghi cooperativi**.
-- Produzione di **dispense e testi accademici** su qualsiasi argomento.
-- Estrema flessibilità: anche un solo punto di vista iniziale può avviare l’intero processo.
-
-![Versione 2](images/Vers_2.png)  
-*Interfaccia completa per creare testi di livello magistrale da una singola domanda.*
+MaGo-AgoraAI è uno strumento progettato per generare mappe concettuali, dialoghi cooperativi, testi accademici e simulazioni educative a partire da una semplice domanda iniziale.  
+È pensato per essere **accessibile**, **potente** e **flessibile**, adatto sia per l'apprendimento scolastico che per l'elaborazione avanzata di contenuti.
 
 ---
 
-## 🧠 MaGo-AgoraAI - Download
+## 📢 Novità sul Rilascio (Release Update)
 
-### 🔧 Developer Version (Source Code)
-👉 [Vai al codice sorgente su GitHub](src/README.md)
+🎉 **Sta per arrivare la prima versione ufficiale completa di MaGo-AgoraAI!**
 
-### ⚡ Ready-to-Use Version (Windows EXE)
-👉 [Download diretto dell’eseguibile (ZIP)](https://drive.google.com/uc?export=download&id=1eRd2D9GcNah13FuXAYoGgO5VwaCB5e8F)
+Sarà disponibile tra pochi giorni e includerà **tutte le funzionalità principali**, tra cui:
+
+- Generazione di **mappe concettuali** a partire da una semplice domanda.
+- Attivazione di **dibattiti a tre agenti** (su quattro disponibili), ciascuno con un proprio **profilo disciplinare**.
+- Possibilità di produrre **sintesi, domande di approfondimento e testi strutturati**.
+
+🟡 In questa fase sarà accessibile con un **numero molto elevato di utilizzi** prima di eventuali limitazioni.
+
+🖼️ Abbiamo pubblicato su GitHub l’immagine dell’interfaccia principale aggiornata.  
+📝 A breve sarà disponibile anche un **blog** con esempi, guide pratiche e casi d’uso.
+
+---
+
+## 👀 Anteprima Interfaccia
+
+![Versione 1](images/Versione1.png)  
+*Interfaccia principale della versione completa in arrivo.*
+---
+
+
 
 ## 📦 Librerie principali
 
