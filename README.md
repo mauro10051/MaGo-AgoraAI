@@ -65,33 +65,35 @@ This approach enables the system to **develop complex** and **interdisciplinary 
 
 AgoraAI is also available as a desktop application. Below are two versions:
 
-### ✅ Version 1 (public)
+# 🧠 MaGo-AgoraAI
 
-Allows users to create projects, generate concept maps, and view evaluations. It is designed to be simple, accessible, and usable in educational settings.
-
-![Version 1](images/Vers_1.png)  
-*Simplified interface with basic functions: suitable for all users.*
+MaGo-AgoraAI is a tool designed to generate concept maps, cooperative dialogues, academic texts, and educational simulations starting from a simple initial question.  
+It is intended to be **accessible**, **powerful**, and **flexible** — ideal both for classroom use and for advanced content generation.
 
 ---
 
-### 🔒 Version 2 (full)
+## 📢 Release Update
 
-Advanced version with additional features, currently not publicly available:
+🎉 **The first official complete version of MaGo-AgoraAI is coming soon!**
 
-- Generation of **scientific profiles**, **simulated interviews**, and **cooperative dialogues**.
-- Production of **lectures and academic texts** on any topic.
-- Extreme flexibility: even a single initial viewpoint can trigger the entire process.
+It will be available within the next few days and will include **all core features**, such as:
 
-![Version 2](images/Vers_2.png)  
-*Complete interface for creating master's level texts from a single question.*
+- Generation of **concept maps** from a simple question.
+- **Three-agent debate mode** (out of four available), with each agent having its own **disciplinary profile**.
+- Automatic creation of **summaries, follow-up questions, and structured texts**.
 
-## 🧠 MaGo-AgoraAI - Download
+🟡 In this initial release phase, the tool will be accessible with a **very high usage limit** before any restrictions apply.
 
-### 🔧 Developer Version (Source Code)
-👉 [Go to GitHub Repository](src/README.md)
+🖼️ We've uploaded a preview of the updated main interface.  
+📝 A **blog** with practical examples, guides, and use cases will also be published soon.
 
-### ⚡ Ready-to-Use Version (Windows EXE)
-👉 [Direct ZIP Download ](https://drive.google.com/uc?export=download&id=1eRd2D9GcNah13FuXAYoGgO5VwaCB5e8F)
+---
+
+## 👀 Interface Preview
+
+![Version 1](images/Versione1.png)  
+*Main interface of the upcoming complete release.*
+
 
 ---
 
