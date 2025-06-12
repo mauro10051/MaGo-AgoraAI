@@ -76,7 +76,7 @@ MaGo-AgoraAI è uno strumento progettato per generare mappe concettuali, dialogh
 ## 👀 Anteprima Interfaccia
 
 ![Versione 1](images/versione_l.png)  
-*Interfaccia principale della versione completa in arrivo.*
+*Interfaccia della versione completa.*
 --
 
 
