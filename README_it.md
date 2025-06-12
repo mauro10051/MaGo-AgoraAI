@@ -50,13 +50,21 @@ MaGo-AgoraAI è uno strumento progettato per generare mappe concettuali, dialogh
 
 ## 📢 Novità sul Rilascio (Release Update)
 
-🎉 **Sta per arrivare la prima versione ufficiale completa di MaGo-AgoraAI!**
+🎉 **E' ARRIVATA LA PRIMA VERSIONE UFFICIALE COMPLETA DI AGORAAI !!**
 
-Sarà disponibile tra pochi giorni e includerà **tutte le funzionalità principali**, tra cui:
-
-- Generazione di **mappe concettuali** a partire da una semplice domanda.
-- Attivazione di **dibattiti a tre agenti** (su quattro disponibili), ciascuno con un proprio **profilo disciplinare**.
-- Possibilità di produrre **sintesi, domande di approfondimento e testi strutturati**.
+<a href="https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf" target="_blank" style="
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #1a73e8;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+">
+  ⬇ Scarica AgoraAI v1.0
+</a>
 
 🟡 In questa fase sarà accessibile con un **numero molto elevato di utilizzi** prima di eventuali limitazioni.
 
