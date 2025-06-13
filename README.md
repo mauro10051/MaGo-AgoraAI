@@ -1,160 +1,147 @@
 # 🧠 MaGo AgoraAI
 
-From a single question, generate concept maps, simulated interviews, interdisciplinary dialogues, and academic theses.
-## 🎯 The first AI-powered engine for interdisciplinary academic debates.
+**From a single question, generate concept maps, simulated interviews, interdisciplinary dialogues, and academic theses.**  
+🎯 *The first AI-powered engine for interdisciplinary academic debates.*
+
+---
+
+## ⚡ What It Does
 
 Imagine asking, “What is time?” and receiving in just 40 minutes:
 
-    📚 Two master-level papers (e.g., relativistic physics vs. philosophy of time), complete with bibliography.
+- 📚 Two master-level papers (e.g., relativistic physics vs. philosophy of time), complete with bibliography.
+- 🗺️ Concept maps bridging both disciplines.
+- 🎤 A structured debate where AI agents embody opposing perspectives with academic-level arguments.
 
-    🗺️ Concept maps bridging both disciplines.
+---
 
-    ⚡ A structured debate where AI agents embody opposing perspectives with academic-level arguments.
+## 🚀 Why It's Innovative
 
-## Why is it innovative?
+- 🔥 No other tool combines multidisciplinary research, academic synthesis, and automated dialectics.
+- ⚡ From a single question to complex academic papers — in under an hour.
+- 🧠 Works offline with open-source LLMs (via Ollama).
 
-    🔥 No other tool combines multidisciplinary research, academic synthesis, and automated dialectics.
-
-    🚀 From question to complex academic paper in under an hour – ready for human review.
+---
 
 ## 💬 Join the Community Discussions
 
-We’ve opened a dedicated space for open conversations about **MaGo AgoraAI**.
+We've opened a dedicated space for open conversations about MaGo AgoraAI.
 
-Feel free to:
-- Ask questions about how the software works
-- Share ideas for improvements or features
-- Tell us how you’re using MaGo AgoraAI in your classroom
-- Suggest topics for future development
+You can:
 
-👉 [Join the Discussions here](https://github.com/mauro10051/MaGo-AgoraAI/discussions)
+- Ask how the software works  
+- Share improvement ideas  
+- Show how you're using MaGo in class  
+- Suggest new topics for future development
 
-This is a community-driven project. Your feedback and ideas are always welcome!
+👉 [**Join the Discussions here**](#) *(replace with actual link)*
 
-
-## 🚀 Core Features
-
-    Guided project creation with definition of the initial question and agent expertise.
-
-    Automatic generation of concept maps (by Max and Samanta).
-
-    Evaluation of contributions via a moderator (Pol).
-
-    Simulated interviews and dialogues between agents with different viewpoints.
-
-    Generation of academic-level texts (essays, course materials, interdisciplinary analyses).
-
-    ⚙️ Technologies: Python + Ollama + Gemma 3 (12B) model.
-    Compatible with other medium-sized open-source LLMs.
+This is a **community-driven project** — your feedback is always welcome!
 
 ---
 
-## 🧩 Dialogical Approach
+## 🧩 Core Features
 
-The core of AgoraAI is the interaction between **simulated agents**:
-
-- **Max** – an expert in a specific discipline (e.g., theoretical physics).
-- **Samanta** – an expert in another discipline (e.g., philosophy).
-- **Pol** – the moderator who synthesizes, evaluates, and guides the discussion.
-
-This approach enables the system to **develop complex** and **interdisciplinary elaborations**, even with a single defined viewpoint.
-
----
-
-## 🖥️ Desktop Interface
-
-AgoraAI is also available as a desktop application. Below are two versions:
-
-# 🧠 MaGo-AgoraAI
-
-MaGo-AgoraAI is a tool designed to generate concept maps, cooperative dialogues, academic texts, and educational simulations starting from a simple initial question.  
-It is intended to be **accessible**, **powerful**, and **flexible** — ideal both for classroom use and for advanced content generation.
+- Guided creation with definition of the initial question and agent expertise.
+- Automatic generation of **concept maps** (Max & Samanta).
+- Moderated evaluation of contributions (Pol).
+- Simulated **interdisciplinary interviews and dialogues**.
+- Generation of **academic-level texts** (essays, course materials, analyses).
+- 💻 Works locally: **Python + Ollama + Gemma 3 (12B)**.
 
 ---
 
-## 📢 Release Update
+## 🧠 Dialogical Approach
 
-🎉 **THE FIRST FULL OFFICIAL VERSION OF AGORAAI HAS ARRIVED!!!!**
+At the heart of AgoraAI lies a multi-agent conversation:
 
-<a href="https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf" target="_blank" style="
-  display: inline-block;
-  padding: 12px 24px;
-  background-color: #1a73e8;
-  color: white;
-  font-size: 16px;
-  font-weight: bold;
-  border-radius: 8px;
-  text-decoration: none;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-">
-  ⬇ Scarica AgoraAI v1.0
-</a>
+- **Max** – expert in one discipline (e.g., physics)
+- **Samanta** – expert in another (e.g., philosophy)
+- **Pol** – the moderator who synthesizes and guides
 
-- Generation of **concept maps** from a simple question.
-- **Three-agent debate mode** (out of four available), with each agent having its own **disciplinary profile**.
-- Automatic creation of **summaries, follow-up questions, and structured texts**.
-
-🟡 In this initial release phase, the tool will be accessible with a **very high usage limit** before any restrictions apply.
-
-🖼️ We've uploaded a preview of the updated main interface.  
-📝 A **blog** with practical examples, guides, and use cases will also be published soon.
+This enables emergent, high-level academic discourse from a single prompt.
 
 ---
 
-## 👀 Interface Preview
+## 🖥️ Desktop App (v1.0)
 
-![Version 1](images/versione_l.png)  
-*Main interface of the upcoming complete release.*
+AgoraAI is also available as a **standalone desktop app**.
 
+> Designed to generate concept maps, cooperative dialogues, and academic texts from a simple question.  
+> Accessible, flexible, and powerful – for both education and advanced research.
 
 ---
 
-## 📦 Main Libraries
+## 📢 Release Update: v1.0 is Here!
 
-- [Ollama](https://ollama.com/) – to run LLM models locally.
-- Standard Python libraries for GUI (e.g., `tkinter`), file management, PDF, etc.
+🎉 **THE FIRST OFFICIAL VERSION OF AGORAAI HAS ARRIVED!**
+
+[⬇ Download AgoraAI v1.0 (Google Drive)](https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf)
+
+AgoraAI is a truly innovative multi-agent system:
+
+- 📦 Works **entirely locally**
+- 🎓 Produces results comparable to or better than GPT-4 in structured debates
+- 🚫 No API needed, no usage limits in this phase
+
+### 🌟 New in v1.0
+
+- 🧠 Concept map generation from a single question
+- 🗣️ Three-agent debate mode with disciplinary roles
+- 📝 Automated summaries, follow-ups, and essay generation
+
+---
+
+## 🖼️ Interface Preview
+
+![Version 1](images/versione_l.png)
+
+*A preview of the updated interface.*
+
+More guides and use cases soon on the [**official blog**](https://mago-agoraai.blogspot.com/p/benvenuto-su-mago-agoraai.html) and [**extended site**](https://sites.google.com/view/mago-agoraai?usp=sharing).
 
 ---
 
 ## 🧪 Use Case Examples
 
-- Philosophy of mind and quantum physics.
-- AI ethics and computer engineering.
-- History and neuroscience.
+- Philosophy of mind vs. quantum physics  
+- AI ethics vs. computer engineering  
+- History vs. neuroscience
 
-The user defines the viewpoints and the initial question. The system then automatically generates consistent and in-depth content.
+> You define the viewpoints and the initial question.  
+> The system generates rigorous, consistent content.
 
 ---
 
-## 📂 Future Projects
+## 📦 Main Libraries
 
-- Release of the full version with dialogue memory management.
-- Integration with web frontend.
-- Advanced customization features for agents and disciplinary domains.
+- [**Ollama**](https://ollama.com/) – for running LLMs locally
+- Python: `tkinter`, file management, PDF, etc.
 
 ---
 
 ## 📫 Contact
 
-For information, suggestions, or collaborations: [Insert contact or link to your profile here]
+For information, suggestions, or collaborations:  
+👉 [Insert your email or GitHub profile here]
 
+---
 
-## 🔒 License (CC BY-NC 4.0)
+## 🔒 License
 
-This project is licensed under [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+This project is licensed under **Creative Commons BY-NC 4.0**.  
 Free for non-commercial use with attribution.  
-📬 For commercial licensing, please contact the authors.
+For **commercial use**, please contact the authors.
 
 ---
 
 ## 🧾 Authors
 
 - **Mauro** – Concept, architecture, implementation  
-- **Agostino** – Co-author, epistemic design  
+- **Agostino** – Co-author, epistemic design
 
 ---
 
-✅ *Also available in 🇮🇹 Italian
-For the Italian version of this README, please check [README_it.md](README_it.md).
+## 🇮🇹 Also Available in Italian
 
-
+👉 For the Italian version of this README, see [`README_it.md`](README_it.md)
