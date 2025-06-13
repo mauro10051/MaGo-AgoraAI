@@ -74,9 +74,21 @@ It is intended to be **accessible**, **powerful**, and **flexible** — ideal bo
 
 ## 📢 Release Update
 
-🎉 **The first official complete version of MaGo-AgoraAI is coming soon!**
+🎉 **THE FIRST FULL OFFICIAL VERSION OF AGORAAI HAS ARRIVED!!!!**
 
-It will be available within the next few days and will include **all core features**, such as:
+<a href="https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf" target="_blank" style="
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #1a73e8;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 8px;
+  text-decoration: none;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+">
+  ⬇ Scarica AgoraAI v1.0
+</a>
 
 - Generation of **concept maps** from a simple question.
 - **Three-agent debate mode** (out of four available), with each agent having its own **disciplinary profile**.
