@@ -91,7 +91,7 @@ It will be available within the next few days and will include **all core featur
 
 ## 👀 Interface Preview
 
-![Version 1](images/Versione1.png)  
+![Version 1](images/versione_l.png)  
 *Main interface of the upcoming complete release.*
 
 
