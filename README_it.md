@@ -123,4 +123,5 @@ Free for non-commercial use with attribution.
 - **Mauro** – Concept, architecture, implementation  
 - **Agostino** – Co-author, epistemic design  
 
-
+🔑 Keywords
+multi-agent, multiagents, AI debate, interdisciplinary research, local LLM, concept maps, thesis generator, educational AI, agora, Gemma, Ollama, philosophy, physics, simulated dialogues, offline AI
