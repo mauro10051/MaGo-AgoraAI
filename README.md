@@ -1,124 +1,140 @@
-# 🧠 MaGo AgoraAI
+# 🧠 MaGo‑AgoraAI
 
-**From a single question, generate concept maps, simulated interviews, interdisciplinary dialogues, and academic theses.**  
-🎯 *The first AI-powered engine for interdisciplinary academic debates.*
-
----
-
-## ⬇️ Download AgoraAI v1.0 (Google Drive)
-
-🎉 **THE FIRST OFFICIAL VERSION OF AGORAAI HAS ARRIVED!**
-
-[**👉 Click here to download AgoraAI v1.0**](https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf)
-
-AgoraAI is a truly innovative multi-agent system:  
-- 📦 Works **entirely locally**  
-- 🎓 Produces results comparable or superior to GPT-4 in structured debates  
-- 🚫 No API needed, no usage limits
-
----
-## 👀 Interface Preview
-
-![Versione 1](images/versione_l.png)  
---
-
-
-## ⚡ What It Does
-
-Imagine asking, “What is time?” and receiving in just 40 minutes:
-
-- 📚 Two master-level papers (e.g., relativistic physics vs. philosophy of time), complete with bibliography.  
-- 🗺️ Concept maps bridging both disciplines.  
-- 🎤 A structured debate where AI agents embody opposing perspectives with academic-level arguments.
+**A local multi-agent system for generating concept maps, simulated interviews, and interdisciplinary academic texts — from a single question.**  
+🎯 *The first open tool for cooperative, multilingual, multi-agent academic discourse.*
 
 ---
 
-## 🚀 Why It's Innovative
+## 🚀 Download AgoraAI v1.0 (.exe)
 
-- 🔥 No other tool combines multidisciplinary research, academic synthesis, and automated dialectics.  
-- ⚡ From a single question to complex academic papers — in under an hour.  
-- 🧠 Works offline with open-source LLMs (via Ollama).
+🎉 **First official version now available!**
 
----
+👉 [**Download AgoraAI v1.0**](https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf)
 
-## 🧩 Core Features
-
-- Guided creation with definition of the initial question and agent expertise.  
-- Automatic generation of **concept maps** (Max & Samanta).  
-- Moderated evaluation of contributions (Pol).  
-- Simulated **interdisciplinary interviews and dialogues**.  
-- Generation of **academic-level texts** (essays, course materials, analyses).  
-- 💻 Works locally: **Python + Ollama + Gemma 3 (12B)**.
+Runs 100% locally using [**Ollama**](https://ollama.com/) + **Gemma 3B/12B** models. No APIs, no cloud, no tokens.
 
 ---
 
-## 🧠 Dialogical Approach
+## 🖼 Interface Preview
 
-At the heart of AgoraAI lies a multi-agent conversation:
+![Screenshot](images/versione_l.png)
 
-- **Max** – expert in one discipline (e.g., physics)  
-- **Samanta** – expert in another (e.g., philosophy)  
-- **Pol** – the moderator who synthesizes and guides  
+---
 
-This enables emergent, high-level academic discourse from a single prompt.
+## 🔍 What is MaGo‑AgoraAI?
+
+MaGo‑AgoraAI is an innovative **multi-agent educational engine** that generates:
+
+- 🧠 **Simulated debates** with 3–4 academic-level AI agents  
+- 🗺️ **Concept maps** and question-driven interviews  
+- 📘 **Multilingual essays** with cooperative writing logic  
+- 🧪 Agents that can become *objects* (e.g., a photon or water molecule) or *commentators* (e.g., Zen agent using koans)  
+
+All this from a **single question**, entirely offline.
+
+---
+
+## 🧩 Key Features
+
+- Multi-agent reasoning from different disciplines  
+- Tutor agents that simplify or clarify complex answers  
+- Role-playing agents that embody concepts, forces, or metaphors  
+- Zen agent that adds metaphorical/poetic insights after each step  
+- Output can reach **120K tokens** in deep interviews or debates  
+- Uses [Gemma 12B](https://ai.google.dev/gemma) locally via Ollama
+
+---
+
+## 💡 Why It’s Different
+
+While many recent multi-agent frameworks focus on **task coordination** (e.g., AutoGen, CrewAI, LangGraph), MaGo‑AgoraAI focuses on **dialectical depth and plural reasoning**.
+
+Its originality lies in:
+
+- Cooperative generation of **rich, nuanced texts**
+- Dialogue as method (not just tool) for reasoning
+- Hybrid agents (academic + narrative + metaphorical)
+- Focus on **local execution**, usable in education, research, and cognitive simulation
+
+---
+
+## 🧠 Agents & Dialogical Model
+
+The core architecture revolves around dialogue:
+
+| Agent   | Role                                        |
+|---------|---------------------------------------------|
+| Max     | Expert 1 (e.g., physics, engineering)       |
+| Samanta | Expert 2 (e.g., philosophy, sociology)      |
+| Pol     | Moderator and synthesizer                   |
+| Alice   | Role-player agent (e.g., photon, cell)      |
+| Zen     | Adds metaphorical/poetic koans              |
+| TutorX  | Clarifies or simplifies complex concepts    |
+
+---
+
+## 🎓 Use Case Scenarios
+
+> Ask: “What is time?”  
+✅ You get:  
+
+- 🗣️ A dialogue between a **quantum physicist**, **philosopher**, and **sociologist**  
+- 📚 Two academic essays with footnotes and bibliographies  
+- 🧭 A concept map linking all perspectives  
+- 💬 A Zen commentary on the nature of time
+
+Other possible themes:
+
+- Free will, AI ethics, water cycle, epistemology, cognition, democracy, space-time, ecology...
+
+---
+
+## 📦 Technologies Used
+
+- 🧠 [Ollama](https://ollama.com/)  
+- 🧠 Gemma 12B (local LLM)  
+- 🐍 Python + `tkinter`, PDF generator, file I/O  
 
 ---
 
 ## 🖥️ Desktop App (v1.0)
 
-AgoraAI is also available as a **standalone desktop app**.
-
-> Designed to generate concept maps, cooperative dialogues, and academic texts from a simple question.  
-> Accessible, flexible, and powerful – for both education and advanced research.
+> AgoraAI ships as a standalone `.exe` desktop app.  
+> Cross-platform release planned soon.
 
 ---
 
-## 🧪 Use Case Examples
+## 🧪 Coming Soon
 
-- Philosophy of mind vs. quantum physics  
-- AI ethics vs. computer engineering  
-- History vs. neuroscience  
-
-> You define the viewpoints and the initial question.  
-> The system generates rigorous, consistent content.
-
----
-
-## 📦 Main Libraries
-
-- [**Ollama**](https://ollama.com/) – for running LLMs locally  
-- Python: `tkinter`, file management, PDF generation, etc.
+- ✨ Prompt composition interface  
+- 🌐 English/Italian bilingual mode  
+- 📊 Customizable agent personalities  
 
 ---
 
 ## 📫 Contact
 
-For information, suggestions, or collaborations:  
-👉 [Insert your email or GitHub profile here]
+For collaboration, academic use, or feedback:  
+📧 [Insert your email or GitHub profile here]
 
 ---
 
-## 🔒 License
+## 🧾 License
 
-This project is licensed under **Creative Commons BY-NC 4.0**.  
-Free for non-commercial use with attribution.  
-For **commercial use**, please contact the authors.
-
----
-
-## 🧾 Authors
-
-- **Mauro** – Concept, architecture, implementation  
-- **Agostino** – Co-author, epistemic design
+**Creative Commons BY‑NC 4.0**  
+> Free for non-commercial use with attribution.  
+> For commercial use, please contact the authors.
 
 ---
 
-## 🇮🇹 Also Available in Italian
+## 👥 Authors
 
-👉 For the Italian version of this README, see [`README_it.md`](README_it.md)
+- **Mauro** — Concept, architecture, implementation  
+- **Agostino** — Co-author, epistemic modeling  
 
 ---
 
-## 🔑 Keywords
+## 🔎 Keywords
 
-multi-agent, multiagents, AI debate, interdisciplinary research, local LLM, concept maps, thesis generator, educational AI, agora, Gemma, Ollama, philosophy, physics, simulated dialogues, offline AI
+multi-agent system, multiagent dialogue, interdisciplinary AI, LLMs, philosophy, education, agora, local AI, concept mapping, AI tutor, Ollama, Gemma, GPT-alternative, offline cognitive simulation
+
