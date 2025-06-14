@@ -20,7 +20,6 @@ AgoraAI is a truly innovative multi-agent system:
 ## 👀 Interface Preview
 
 ![Versione 1](images/versione_l.png)  
-*Interfaccia della versione completa.*
 --
 
 
