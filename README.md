@@ -17,6 +17,12 @@ AgoraAI is a truly innovative multi-agent system:
 - 🚫 No API needed, no usage limits
 
 ---
+## 👀 Interface Preview
+
+![Versione 1](images/versione_l.png)  
+*Interfaccia della versione completa.*
+--
+
 
 ## ⚡ What It Does
 
