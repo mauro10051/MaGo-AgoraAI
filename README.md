@@ -10,8 +10,31 @@
 🎉 **First official version now available!**
 
 👉 [**Download AgoraAI v1.0**](https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf)
+---
 
-Runs 100% locally using [**Ollama**](https://ollama.com/) + **Gemma 3B/12B** models. No APIs, no cloud, no tokens.
+#🚀 AgoraAI v1.0 – Optimized Version Now Available!
+🎉 The first official version has evolved: lighter, more accessible, and smarter.
+
+👉 [Download AgoraAI v1.0 (.exe)]
+
+🧠 Runs 100% locally with Ollama + Gemma 3B/12B models (and now also smaller, lighter models tested for excellent results).
+No cloud, no APIs, no tokens.
+🔧 Key updates:
+
+    ⚙️ General performance optimizations
+
+    🧩 Access to smaller models: tested and selected for great results even on older hardware
+
+    💻 Extended compatibility: now works on RTX 2000 series GPUs
+
+    🖨️ Fixed a PDF printing conflict: documents are now accessible in Markdown and HTML formats
+
+    🧭 New intelligent start option: you can now begin not only by asking a question, but also by describing a problem.
+    From this, model agents autonomously generate the initial question and expert viewpoints to start the study path.
+
+📌 AgoraAI is your cognitive dialogue space: an offline platform to explore ideas, solve problems, and simulate expert perspectives.
+
+🧪 Experiment. Compare. Deepen.
 
 ---
 
