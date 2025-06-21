@@ -11,8 +11,28 @@
 
 👉 [**Scarica AgoraAI v1.0**](https://drive.google.com/uc?export=download&id=1PS9eNMUcnWsSeSIBwsZooD0pZxIfD5Gf)
 
-Funziona **100% in locale** grazie a [**Ollama**](https://ollama.com/) + modelli **Gemma 3B/12B**.  
-Niente API, niente cloud, niente limiti di utilizzo.
+🚀 AgoraAI v1.0 – Versione Ottimizzata Disponibile!
+🎉 La prima versione ufficiale evolve: più leggera, più accessibile, più intelligente.
+
+
+#🧠 Funziona 100% in locale con Ollama + modelli Gemma 3B/12B (e ora anche modelli più piccoli, leggeri ma sorprendentemente efficaci).
+Niente cloud, niente API, nessun token.
+🔧 Novità principali:
+
+    ⚙️ Ottimizzazione generale delle prestazioni
+
+    🧩 Accesso a modelli più piccoli: testati e selezionati per ottimi risultati anche su hardware meno recente
+
+    💻 Compatibilità estesa: ora funziona anche su schede grafiche RTX serie 2000
+
+    🖨️ Corretto un conflitto nella stampa PDF: i documenti sono ora accessibili anche nei formati Markdown e HTML
+
+    🧭 Nuovo avvio intelligente: non solo puoi iniziare ponendo una domanda, ma anche descrivendo un problema.
+    Da lì, gli agenti del modello generano autonomamente la domanda iniziale e i punti di vista specialistici per avviare il percorso di studio.
+
+📌 AgoraAI è il tuo spazio di dialogo cognitivo: una piattaforma offline per esplorare idee, risolvere problemi, simulare punti di vista esperti.
+
+🧪 Sperimenta. Confronta. Approfondisci
 
 ---
 
